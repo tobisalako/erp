@@ -5,3 +5,4 @@ guest
 test pull
 test fetch
 test rebase1
+test rebase2
